@@ -4,6 +4,7 @@ logical_circuit_design termproject
 논리회로설계(최준림교수님)에서 텀프로젝트한 것을 작성.
 Vlog를 이용하여 full adder, multiplier를 구현. 
 
+##코드 간단한 설명
 alu.v
 //기본적인 ALU
 
